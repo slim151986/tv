@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="Проверено на телевизоре",Россия 1 — эталон, URL не изменён
+https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Проверено на телевизоре",Россия 24 — эталон, URL не изменён
+https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8

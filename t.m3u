@@ -1,0 +1,17 @@
+#EXTM3U
+# Build: stage4-r1-2026-11-14
+# Public catalog links; rights to each underlying retransmission are unconfirmed.
+#EXTINF:-1 group-title="Первый канал тест",Первый канал 01 — master, заявлено 1048x576; FFprobe 720x576 H.264 Main 50 fps / MP2
+http://178.217.49.7/1/index.m3u8
+#EXTINF:-1 group-title="Первый канал тест",Первый канал 02 — master, заявлено 1920x1080 H.264; FFprobe в текущем запросе вернул 5xx
+http://45.153.24.78/1TV/index.m3u8
+#EXTINF:-1 group-title="Первый канал тест",Первый канал 03 — HLS v5 master, автоматический выбор качества
+https://streaming.thestream.cyou/live/210.m3u8
+#EXTINF:-1 group-title="Первый канал тест",Первый канал 04 — 426x240 H.264 Baseline 25 fps / AAC-LC, заявлено 446 kbit/s
+https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-3k_v5.m3u8
+#EXTINF:-1 group-title="Первый канал тест",Первый канал 05 — 640x360, заявлено 796 kbit/s; сегменты доступны, FFprobe не завершился
+https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-2k_v5.m3u8
+#EXTINF:-1 group-title="Первый канал тест",Первый канал 06 — 1024x576, заявлено 2096 kbit/s; прошлые длительные тесты имели таймауты
+https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Первый канал тест",Первый канал 07 — 1920x1080 H.264 High@4.2 25 fps / AAC-LC 48 kHz
+https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8
