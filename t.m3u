@@ -1,5 +1,9 @@
 #EXTM3U
-# Build: stage4-r2-2026-11-14
-# Retained Android comparison item 07. No new independent public HLS source passed validation; no #08 was fabricated.
+# Build: stage4-r3-2026-11-14
+# Retained Android comparison item 07; no new First Channel source passed validation.
 #EXTINF:-1 group-title="Первый канал тест",Первый канал 07 — Android работает; Samsung Orsay не подтверждён
 https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Проверено на телевизоре",Россия 1 — эталон, проверен на Samsung
+https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Проверено на телевизоре",Россия 24 — эталон, проверен на Samsung
+https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
