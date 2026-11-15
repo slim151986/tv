@@ -1,6 +1,6 @@
 #EXTM3U
 # Build: LG comparison; tokenized LG entries excluded
-# Update: 2026-11-15; added one BST 640x360 HLS candidate
+# Update: 2026-11-15; BST 1024x576; four KHL/KHL Prime test entries appended (not probed)
 #EXTINF:-1 group-title="Основные",Первый канал — вариант 1 (сдвиг не установлен)
 http://178.217.49.7/1/index.m3u8
 #EXTINF:-1 group-title="Основные",Первый канал — вариант 2 (сдвиг не установлен)
@@ -9,8 +9,8 @@ https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8
 https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Новости",Россия 24 HD
 https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные",БСТ — 640x360 H.264 Baseline/AAC (MPEG-TS)
-https://bsttv.bonus-tv.ru/cdn/bst/playlist_sdmid.m3u8
+#EXTINF:-1 group-title="Региональные",БСТ
+https://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Основные",Россия К HD
 https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
 #EXTINF:-1 group-title="Основные",НТВ HD
@@ -39,3 +39,11 @@ https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
 http://stream.mcquack.net/317/index.m3u8
 #EXTINF:-1 group-title="Музыка",RU.TV — вариант для проверки
 https://stream8.cinerama.uz/1202/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт",КХЛ — вариант 1
+http://176.118.197.101/KHL/index.m3u8
+#EXTINF:-1 group-title="Спорт",КХЛ — вариант 2
+http://stream.mcquack.net/166/index.m3u8
+#EXTINF:-1 group-title="Спорт",КХЛ Prime — вариант 1
+http://stream.mcquack.net/178/index.m3u8
+#EXTINF:-1 group-title="Спорт",КХЛ Prime — вариант 2
+http://194.143.148.28:8080/KHL_HD/index.m3u8
