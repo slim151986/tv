@@ -1,9 +1,54 @@
 #EXTM3U
-# Build: stage4-r3-2026-11-14
-# Retained Android comparison item 07; no new First Channel source passed validation.
-#EXTINF:-1 group-title="Первый канал тест",Первый канал 07 — Android работает; Samsung Orsay не подтверждён
-https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Проверено на телевизоре",Россия 1 — эталон, проверен на Samsung
+# Build: LG comparison; tokenized LG entries excluded
+#EXTINF:-1 group-title="Основные",Россия 1 HD
 https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Проверено на телевизоре",Россия 24 — эталон, проверен на Samsung
+#EXTINF:-1 group-title="Новости",Россия 24 HD
 https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
+#EXTINF:-1 group-title="Основные",Россия К HD
+https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
+#EXTINF:-1 group-title="Основные",НТВ HD
+https://cdn-dvr.ntv.ru/ntv0_hd/index.m3u8
+#EXTINF:-1 group-title="Основные",Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1 group-title="Основные",МИР HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="Новости",РБК
+http://online-video.rbc.ru/online2/rbctv.m3u8
+#EXTINF:-1 group-title="Детские",Карусель
+https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8
+#EXTINF:-1 group-title="Основные",Первый канал — вариант 1
+http://178.217.49.7/1/index.m3u8
+#EXTINF:-1 group-title="Основные",Первый канал — вариант 2
+https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Основные",Пятый канал — вариант 2
+http://178.134.1.158:8081/5channel/index.m3u8
+#EXTINF:-1 group-title="Основные",РЕН ТВ
+http://flussonic.linkintel.ru/ren_tv/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",СТС — вариант 1
+http://stream.mcquack.net/138/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",СТС — вариант 2
+http://tshift-1.telecoma.tv/sts/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ — вариант 1
+http://stream.mcquack.net/135/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ — вариант 2
+http://flussonic.linkintel.ru/tnt/index.m3u8
+#EXTINF:-1 group-title="Россия 1 — варианты качества",Россия 1 — вариант 01 — 1920x1080; H.264 High@4.0; AAC stereo; 25.0 fps; измерено 5926 кбит/с
+https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8
+#EXTINF:-1 group-title="Россия 1 — варианты качества",Россия 1 — вариант 02 — 1024x576; H.264 Main@3.1; AAC stereo; 25.0 fps; измерено 1687 кбит/с
+https://live.smotrim.ru/vgtrk/0/russia1-hd/1399200_576p.m3u8
+#EXTINF:-1 group-title="Россия 1 — варианты качества",Россия 1 — вариант 03 — 1024x576; H.264 Main@3.1; AAC stereo; 25.0 fps; измерено 2380 кбит/с
+https://live.smotrim.ru/vgtrk/0/russia1-hd/2081200_576p.m3u8
+#EXTINF:-1 group-title="Россия 1 — варианты качества",Россия 1 — вариант 04 — 1280x720; H.264 High@3.1; AAC stereo; 25.0 fps; измерено 3264 кбит/с
+https://live.smotrim.ru/vgtrk/0/russia1-hd/720p.m3u8
+#EXTINF:-1 group-title="Россия 1 — варианты качества",Россия 1 — вариант 05 — 1024x576; H.264 Main@3.1; AAC stereo; 25.0 fps; измерено 1037 кбит/с
+https://live.smotrim.ru/vgtrk/0/russia1-hd/792000_576p.m3u8
+#EXTINF:-1 group-title="Россия 24 — варианты качества",Россия 24 — вариант 01 — 1920x1080; H.264 High@4.0; AAC stereo; 25.0 fps; измерено 5906 кбит/с
+https://live.smotrim.ru/vgtrk/0/russia24-hd/1080p.m3u8
+#EXTINF:-1 group-title="Россия 24 — варианты качества",Россия 24 — вариант 02 — 1024x576; H.264 Main@3.1; AAC stereo; 25.0 fps; измерено 1597 кбит/с
+https://live.smotrim.ru/vgtrk/0/russia24-hd/1399200_576p.m3u8
+#EXTINF:-1 group-title="Россия 24 — варианты качества",Россия 24 — вариант 03 — 1024x576; H.264 Main@3.1; AAC stereo; 25.0 fps; измерено 2221 кбит/с
+https://live.smotrim.ru/vgtrk/0/russia24-hd/2081200_576p.m3u8
+#EXTINF:-1 group-title="Россия 24 — варианты качества",Россия 24 — вариант 04 — 1280x720; H.264 High@3.1; AAC stereo; 25.0 fps; измерено 3104 кбит/с
+https://live.smotrim.ru/vgtrk/0/russia24-hd/720p.m3u8
+#EXTINF:-1 group-title="Россия 24 — варианты качества",Россия 24 — вариант 05 — 1024x576; H.264 Main@3.1; AAC stereo; 25.0 fps; измерено 1041 кбит/с
+https://live.smotrim.ru/vgtrk/0/russia24-hd/792000_576p.m3u8
