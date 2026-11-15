@@ -30,7 +30,9 @@ http://stream.mcquack.net/138/index.m3u8
 http://tshift-1.telecoma.tv/sts/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ — вариант 1
 http://stream.mcquack.net/135/index.m3u8
-#EXTINF:-1 group-title="Музыка",Музсоюз — прямой эфир
-https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF:-1 group-title="Музыка",Шансон ТВ — прямой эфир
-https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",МУЗ-ТВ — вариант для проверки
+https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыка",ТНТ Music / FON MUSIC — 1048×576
+http://stream.mcquack.net/317/index.m3u8
+#EXTINF:-1 group-title="Музыка",RU.TV — вариант для проверки
+https://stream8.cinerama.uz/1202/tracks-v1a1/mono.m3u8
