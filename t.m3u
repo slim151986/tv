@@ -1,5 +1,9 @@
 #EXTM3U
 # Build: LG comparison; tokenized LG entries excluded
+#EXTINF:-1 group-title="Основные",Первый канал — вариант 1 (сдвиг не установлен)
+http://178.217.49.7/1/index.m3u8
+#EXTINF:-1 group-title="Основные",Первый канал — вариант 2 (сдвиг не установлен)
+https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Основные",Россия 1 HD
 https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Новости",Россия 24 HD
@@ -16,10 +20,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 http://online-video.rbc.ru/online2/rbctv.m3u8
 #EXTINF:-1 group-title="Детские",Карусель
 https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8
-#EXTINF:-1 group-title="Основные",Первый канал — вариант 1
-http://178.217.49.7/1/index.m3u8
-#EXTINF:-1 group-title="Основные",Первый канал — вариант 2
-https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Основные",Пятый канал — вариант 2
 http://178.134.1.158:8081/5channel/index.m3u8
 #EXTINF:-1 group-title="Основные",РЕН ТВ
@@ -30,25 +30,7 @@ http://stream.mcquack.net/138/index.m3u8
 http://tshift-1.telecoma.tv/sts/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ — вариант 1
 http://stream.mcquack.net/135/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",ТНТ — вариант 2
-http://flussonic.linkintel.ru/tnt/index.m3u8
-#EXTINF:-1 group-title="Россия 1 — варианты качества",Россия 1 — вариант 01 — 1920x1080; H.264 High@4.0; AAC stereo; 25.0 fps; измерено 5926 кбит/с
-https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8
-#EXTINF:-1 group-title="Россия 1 — варианты качества",Россия 1 — вариант 02 — 1024x576; H.264 Main@3.1; AAC stereo; 25.0 fps; измерено 1687 кбит/с
-https://live.smotrim.ru/vgtrk/0/russia1-hd/1399200_576p.m3u8
-#EXTINF:-1 group-title="Россия 1 — варианты качества",Россия 1 — вариант 03 — 1024x576; H.264 Main@3.1; AAC stereo; 25.0 fps; измерено 2380 кбит/с
-https://live.smotrim.ru/vgtrk/0/russia1-hd/2081200_576p.m3u8
-#EXTINF:-1 group-title="Россия 1 — варианты качества",Россия 1 — вариант 04 — 1280x720; H.264 High@3.1; AAC stereo; 25.0 fps; измерено 3264 кбит/с
-https://live.smotrim.ru/vgtrk/0/russia1-hd/720p.m3u8
-#EXTINF:-1 group-title="Россия 1 — варианты качества",Россия 1 — вариант 05 — 1024x576; H.264 Main@3.1; AAC stereo; 25.0 fps; измерено 1037 кбит/с
-https://live.smotrim.ru/vgtrk/0/russia1-hd/792000_576p.m3u8
-#EXTINF:-1 group-title="Россия 24 — варианты качества",Россия 24 — вариант 01 — 1920x1080; H.264 High@4.0; AAC stereo; 25.0 fps; измерено 5906 кбит/с
-https://live.smotrim.ru/vgtrk/0/russia24-hd/1080p.m3u8
-#EXTINF:-1 group-title="Россия 24 — варианты качества",Россия 24 — вариант 02 — 1024x576; H.264 Main@3.1; AAC stereo; 25.0 fps; измерено 1597 кбит/с
-https://live.smotrim.ru/vgtrk/0/russia24-hd/1399200_576p.m3u8
-#EXTINF:-1 group-title="Россия 24 — варианты качества",Россия 24 — вариант 03 — 1024x576; H.264 Main@3.1; AAC stereo; 25.0 fps; измерено 2221 кбит/с
-https://live.smotrim.ru/vgtrk/0/russia24-hd/2081200_576p.m3u8
-#EXTINF:-1 group-title="Россия 24 — варианты качества",Россия 24 — вариант 04 — 1280x720; H.264 High@3.1; AAC stereo; 25.0 fps; измерено 3104 кбит/с
-https://live.smotrim.ru/vgtrk/0/russia24-hd/720p.m3u8
-#EXTINF:-1 group-title="Россия 24 — варианты качества",Россия 24 — вариант 05 — 1024x576; H.264 Main@3.1; AAC stereo; 25.0 fps; измерено 1041 кбит/с
-https://live.smotrim.ru/vgtrk/0/russia24-hd/792000_576p.m3u8
+#EXTINF:-1 group-title="Музыка",Музсоюз — прямой эфир
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",Шансон ТВ — прямой эфир
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
