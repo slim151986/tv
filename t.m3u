@@ -1,9 +1,9 @@
 #EXTM3U
 # Build: LG comparison; tokenized LG entries excluded
 # Update: 2026-11-15; BST 1024x576; four KHL/KHL Prime test entries appended (not probed)
-#EXTINF:-1 group-title="Основные",Первый канал — вариант 1 (сдвиг не установлен)
+#EXTINF:-1 group-title="Основные",Первый канал 
 http://178.217.49.7/1/index.m3u8
-#EXTINF:-1 group-title="Основные",Первый канал — вариант 2 (сдвиг не установлен)
+#EXTINF:-1 group-title="Основные",Первый канал HD
 https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Основные",Россия 1 HD
 https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
@@ -23,27 +23,25 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 http://online-video.rbc.ru/online2/rbctv.m3u8
 #EXTINF:-1 group-title="Детские",Карусель
 https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8
-#EXTINF:-1 group-title="Основные",Пятый канал — вариант 2
+#EXTINF:-1 group-title="Основные",Пятый канал
 http://178.134.1.158:8081/5channel/index.m3u8
 #EXTINF:-1 group-title="Основные",РЕН ТВ
 http://flussonic.linkintel.ru/ren_tv/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",СТС — вариант 1
+#EXTINF:-1 group-title="Развлекательные",СТС 
 http://stream.mcquack.net/138/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",СТС — вариант 2
+#EXTINF:-1 group-title="Развлекательные",СТС 2
 http://tshift-1.telecoma.tv/sts/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",ТНТ — вариант 1
+#EXTINF:-1 group-title="Развлекательные",ТНТ
 http://stream.mcquack.net/135/index.m3u8
-#EXTINF:-1 group-title="Музыка",МУЗ-ТВ — вариант для проверки
+#EXTINF:-1 group-title="Музыка",МУЗ-ТВ 
 https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Музыка",ТНТ Music / FON MUSIC — 1048×576
+#EXTINF:-1 group-title="Музыка",ТНТ Music / FON MUSIC
 http://stream.mcquack.net/317/index.m3u8
-#EXTINF:-1 group-title="Музыка",RU.TV — вариант для проверки
+#EXTINF:-1 group-title="Музыка",RU.TV
 https://stream8.cinerama.uz/1202/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт",КХЛ — вариант 1
+#EXTINF:-1 group-title="Спорт",КХЛ
 http://176.118.197.101/KHL/index.m3u8
-#EXTINF:-1 group-title="Спорт",КХЛ — вариант 2
+#EXTINF:-1 group-title="Спорт",КХЛ 
 http://stream.mcquack.net/166/index.m3u8
-#EXTINF:-1 group-title="Спорт",КХЛ Prime — вариант 1
+#EXTINF:-1 group-title="Спорт",КХЛ Prime
 http://stream.mcquack.net/178/index.m3u8
-#EXTINF:-1 group-title="Спорт",КХЛ Prime — вариант 2
-http://194.143.148.28:8080/KHL_HD/index.m3u8
